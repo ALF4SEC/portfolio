@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="hero container" id="inicio" aria-labelledby="hero-title">
-      <p className="kicker">Ingeniero Informático · Backend &amp; Ciberseguridad</p>
+      <p className="kicker">Ingeniero Informático | Backend, Administración de Sistemas &amp; Ciberseguridad</p>
       <h1 id="hero-title">Alfonso Crego Calvo</h1>
       <p className="hero-lead">
         Estudiante de 4º de Ingeniería Informática en la Universidad de Salamanca, interesado en el

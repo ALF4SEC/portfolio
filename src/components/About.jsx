@@ -4,7 +4,7 @@ const FACTS = [
     value: 'Grado en Ingeniería Informática, Universidad de Salamanca',
     note: '2022–2027',
   },
-  { label: 'Enfoque', value: 'Backend y ciberseguridad' },
+  { label: 'Enfoque', value: 'Backend, administración de sistemas y ciberseguridad' },
   { label: 'Prácticas', value: 'ESALAB — Expert System and Application Laboratory', note: '2025' },
   { label: 'Idiomas', value: 'Español nativo, Inglés B2, Francés B1' },
 ];

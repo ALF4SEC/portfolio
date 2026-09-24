@@ -1,8 +1,5 @@
 import ProjectCard from './ProjectCard.jsx';
 
-// TODO: sustituir cada url por el repositorio concreto del proyecto
-const GITHUB = 'https://github.com/ALF4SEC';
-
 const PROJECTS = [
   {
     title: 'TimePill',
@@ -28,14 +25,14 @@ const PROJECTS = [
     description:
       'Implementación del algoritmo de consenso Practical Byzantine Fault Tolerance en Java, con nodos comunicados mediante servicios JAX-RS.',
     tags: ['Java', 'JAX-RS', 'Sistemas distribuidos'],
-    url: GITHUB,
+    url: 'https://github.com/ALF4SEC/PBFT',
   },
   {
     title: 'API Blockchain con ASP.NET Core',
     description:
       'API en C# con documentación Swagger que implementa una cadena de bloques.',
     tags: ['C#', 'ASP.NET Core', 'Swagger'],
-    url: GITHUB,
+    url: 'https://github.com/ALF4SEC/Blockchain-API',
   },
   {
     title: 'APIs RESTful',
