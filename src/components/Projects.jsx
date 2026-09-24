@@ -1,5 +1,7 @@
 import ProjectCard from './ProjectCard.jsx';
 
+const GITHUB = 'https://github.com/ALF4SEC';
+
 const PROJECTS = [
   {
     title: 'TimePill',
