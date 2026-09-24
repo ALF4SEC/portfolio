@@ -1,7 +1,7 @@
 const LANGUAGES = [
   { name: 'Español', level: 'Nativo' },
   { name: 'Inglés', level: 'B2', certificate: 'Test of English OTE' },
-  { name: 'Francés', level: 'B2', certificate: 'DELF-DALF' },
+  { name: 'Francés', level: 'B1', certificate: 'DELF-DALF' },
 ];
 
 export default function Languages() {

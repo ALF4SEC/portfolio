@@ -1,6 +1,6 @@
 const ENTRIES = [
   {
-    year: '2026',
+    year: '2027',
     title: 'Grado en Ingeniería Informática',
     org: 'Universidad de Salamanca',
     detail: '4º año en curso.',

@@ -1,15 +1,15 @@
 const SKILL_GROUPS = [
   {
     title: 'Lenguajes',
-    items: ['Java', 'C / C++', 'C#', 'Bash', 'JavaScript', 'TypeScript', 'SQL', 'MongoDB'],
+    items: ['Java', 'C', 'C++', 'C#', 'Bash', 'JavaScript', 'TypeScript', 'SQL', 'MongoDB', 'Perl'],
   },
   {
-    title: 'Frameworks',
-    items: ['React', 'React Native', 'Node.js', 'Vue.js', 'Arduino IDE', 'ASP.NET Core'],
+    title: 'Frameworks y librerías',
+    items: ['React.js', 'React Native', 'Node.js', 'Vue.js', 'ASP.NET Core'],
   },
   {
     title: 'Herramientas y plataformas',
-    items: ['GitHub', 'GitLab', 'Docker', 'Linux', 'Kali Linux', 'Firebase', 'SQLite'],
+    items: ['GitHub', 'GitLab', 'Docker', 'Linux', 'Firebase', 'SQLite', 'Arduino IDE', 'Autodesk Fusion 360'],
   },
   {
     title: 'Habilidades personales',
